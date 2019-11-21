@@ -16,7 +16,7 @@
         <input type="date" name="tanggal_lahir">
         <br>
         <br>
-        <button type submit="submit" name="simpan">
+        <button type="submit" name="simpan" value="Kirim">Kirim</button>
 
     </form>
     </body>
